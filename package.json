@@ -1,6 +1,6 @@
 {
     "name": "@hapi/tsconfig",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Shared TypeScript compiler options for hapi modules",
     "keywords": [
         "hapi",
